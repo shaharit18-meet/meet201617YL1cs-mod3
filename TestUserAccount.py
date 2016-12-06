@@ -1,7 +1,7 @@
 
 #This script performs some simple tests on the UserAccount class.
 
-import UserAccount
+from UserAccount import UserAccount
 
 #Three things are missing from the line below - fill them in
 my_user=UserAccount("shaharit18- meet", "meetyear18" , "my secret")
